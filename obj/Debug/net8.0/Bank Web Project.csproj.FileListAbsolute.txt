@@ -166,3 +166,4 @@ F:\ASP.NET\Bank Web Project\obj\Debug\net8.0\refint\Bank Web Project.dll
 F:\ASP.NET\Bank Web Project\obj\Debug\net8.0\Bank Web Project.pdb
 F:\ASP.NET\Bank Web Project\obj\Debug\net8.0\Bank Web Project.genruntimeconfig.cache
 F:\ASP.NET\Bank Web Project\obj\Debug\net8.0\ref\Bank Web Project.dll
+F:\ASP.NET\Bank Web Project\obj\Debug\net8.0\Bank Web Project.sourcelink.json

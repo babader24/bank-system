@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "F:\\ASP.NET\\Bank Web Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05B7D412-D5C4-4126-B56C-59C5EC9F5BF8}|Bank Web Project.csproj|f:\\asp.net\\bank web project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05B7D412-D5C4-4126-B56C-59C5EC9F5BF8}|Bank Web Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05B7D412-D5C4-4126-B56C-59C5EC9F5BF8}|Bank Web Project.csproj|f:\\asp.net\\bank web project\\repositoty\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B7D412-D5C4-4126-B56C-59C5EC9F5BF8}|Bank Web Project.csproj|solutionrelative:repositoty\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B7D412-D5C4-4126-B56C-59C5EC9F5BF8}|Bank Web Project.csproj|f:\\asp.net\\bank web project\\repositoty\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B7D412-D5C4-4126-B56C-59C5EC9F5BF8}|Bank Web Project.csproj|solutionrelative:repositoty\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\ASP.NET\\Bank Web Project\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\ASP.NET\\Bank Web Project\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA1wB4AAAAdAAAA",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\ASP.NET\\Bank Web Project\\Repositoty\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositoty\\Repository.cs",
+              "ToolTip": "F:\\ASP.NET\\Bank Web Project\\Repositoty\\Repository.cs",
+              "RelativeToolTip": "Repositoty\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T16:08:48.817Z",
+              "WhenOpened": "2025-01-22T16:59:58.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "F:\\ASP.NET\\Bank Web Project\\Repositoty\\Base\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositoty\\Base\\IRepository.cs",
+              "ToolTip": "F:\\ASP.NET\\Bank Web Project\\Repositoty\\Base\\IRepository.cs",
+              "RelativeToolTip": "Repositoty\\Base\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:57:28.04Z",
               "EditorCaption": ""
             }
           ]
